@@ -2,6 +2,7 @@
 layout: post
 title: WebGL Refraction Demo
 #image: /img/hello_world.jpeg
+gh-repo: kkrohn18/RefractionDemo
 ---
 
 # Typescript + WebGL
