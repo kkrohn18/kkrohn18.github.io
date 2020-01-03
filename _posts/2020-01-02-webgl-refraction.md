@@ -2,7 +2,7 @@
 layout: post
 title: WebGL Refraction Demo
 subtitle: A Graphics project simulating refraction using WebGL and Typescript
-#image: /img/hello_world.jpeg
+image: /img/hello_world.jpeg
 gh-repo: kkrohn18/RefractionDemo
 ---
 
