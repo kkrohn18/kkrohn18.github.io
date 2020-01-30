@@ -13,7 +13,8 @@
         <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
       {%- endif -%}
     </div>
-
+	  
+	  <!-- Collapsing menu on right side of navbar
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
       {%- for link in site.navbar-links -%}
@@ -34,6 +35,7 @@
       {%- endfor -%}
       </ul>
     </div>
+	-->
 
 	{% if page.image and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
